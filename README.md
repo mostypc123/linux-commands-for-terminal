@@ -1,2 +1,2 @@
-# linux-commands-for-terminal
-Linux commands for terminal- shorter commands for Linux. Example: py3, no python3
+# Linux commands for terminal
+This is a way to commands in terminal is shorter.

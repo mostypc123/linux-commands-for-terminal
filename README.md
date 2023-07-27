@@ -5,3 +5,4 @@ This is a way to commands in terminal is shorter.
 **f**: ```ls```\
 **ct**: ```ssh```\
 **w**: ```echo```\
+**allow**: ```chmod +x```
